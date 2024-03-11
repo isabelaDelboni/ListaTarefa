@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: rgb(232, 238, 238);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    gap: 20px;
+    box-shadow: 70%;
+    border-radius: 8px;
+    background-color: rgba(216, 223, 235, 0.685)
+}
+
+label{
+    font-size: 18px;
+}
+
+input{
+    margin-right: 30px;
+}
+
+.adicionar{
+    background-color: rgb(107, 158, 107);
+    border: none;
+    border-radius: 6px;
+    padding: 8px;
+    margin-left: 15px;
+}
+
+.tarefas{
+    margin-top: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    gap: 20px;
+    box-shadow: 70%;
+    border-radius: 8px;
+    background-color: rgba(216, 223, 235, 0.685)
+}
